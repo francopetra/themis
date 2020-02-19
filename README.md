@@ -1,11 +1,9 @@
-![](https://repository-images.githubusercontent.com/235211113/7bd48180-3e33-11ea-86eb-271e9f941fe3)
+![](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/firecracker_1f9e8.png)
 
 # ~Themis
 ### A Personal Token Terms of Service
 
 **Author:** [Reuben Bramanathan](http://bramanathan.com "Reuben Bramanathan")
-
-You can hire and access Reuben's consulting services by [purchasing his $CNSL token](https://uniswap.exchange/swap?outputCurrency=0xea0bea4d852687c45fdc57f6b06a8a92302baabc "purchasing his token $CNSL").
 
 **This is a template Terms of Service for your personal token.**
 
@@ -33,15 +31,16 @@ ___
 # Summary of Important Terms for $[token name] 
 
 * $[token name] is the personal token of [your name]. It exists on the Ethereum blockchain at [contract address] and the maximum supply of $[token name] is [max supply].
-* You can redeem 1 $[token name] for [redemption offer] by sending it to [redeem address]. 
-* Before redeeming $[token name], you can set up an obligation-free fifteen minute call with me by signing a message from an Ethereum address that holds at least 1 $[token name]. 
-* I can provide any of the services listed at [website] or any other services that you and I both agree on.
+* You can redeem 1 $[token name] for [redemption offer] by sending it to [redeem address]/[brokentokenio.eth (if you set BrokenToken as your token manager)]. 
+* Before redeeming $[token name], you can set up an obligation-free fifteen minute call with me by signing a message from an Ethereum address that holds at least 1 $[token name].
+* I can provide any of the services listed at [website]/[section] or any other services that you and I both agree on.
 * I will do my best to schedule time to complete the work for you, but I can’t always guarantee that I will be available immediately. 
 * All $[token name] tokens will expire at 11:59pm Pacific Time on [Expiration date] and cannot be redeemed after that time.
 * I will give at least 24 hours notice via Twitter [@username](www.twitter/com/username) of any additional minting of $[token name] after the first minting of 100 tokens
 * I will give at least 24 hours notice via Twitter [@username](www.twitter/com/username) before I release any additional $[token name] into the market after the initial release
-* If you have any questions, please contact me at [email address] before buying or redeeming $[token name].
-* Please read the full [Terms of Service](https://www.linktofulltos.com). By buying or redeeming $[token name] you are agreeing to the Terms of Service.
+* If you have any questions, please contact me at [email address] before buying or 
+ing $[token name].
+* Please read the full [Terms of Service]. By buying or redeeming $[token name] you are agreeing to the Terms of Service.
 ___
 # Terms of Service for $[token name] 
 These Terms of Service (“Terms”) form a binding legal agreement between each person who holds or has redeemed $[token name] tokens (“you”) and [your name] (“Consultant”). $[token name] tokens exist on the Ethereum blockchain at [contract address].
